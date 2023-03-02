@@ -1,2 +1,13 @@
 # NLP-And-Text-Mining-explaination
-https://lms.simplilearn.com/courses/4611/Natural-Language-Processing-%28NLP%29-and-Text-Mining-Tutorial-for-Beginners/syllabus
+![image](https://user-images.githubusercontent.com/69175831/222555693-a1ba2bde-fd8e-4c94-b017-87e6d851c782.png)
+![image](https://user-images.githubusercontent.com/69175831/222555748-08357642-7ab4-4bec-8785-adf13bda5587.png)
+![image](https://user-images.githubusercontent.com/69175831/222555782-d8287cf8-8880-4f9b-b214-cc2e51c0c98d.png)
+![image](https://user-images.githubusercontent.com/69175831/222555848-1e120ded-303f-4590-8f5e-ecb84290e1ec.png)
+![image](https://user-images.githubusercontent.com/69175831/222555892-c955e0c8-1a8d-41be-b372-d8fb5c3c5366.png)
+![image](https://user-images.githubusercontent.com/69175831/222555919-2b0a9581-31dc-4edd-9661-9bc530dcf310.png)
+![image](https://user-images.githubusercontent.com/69175831/222555942-7d4ab101-44de-46e6-aae5-5903f9aa4dd5.png)
+![image](https://user-images.githubusercontent.com/69175831/222555981-6d24352a-42b9-4941-8db4-01fbfdbd2df8.png)
+![image](https://user-images.githubusercontent.com/69175831/222556019-8f443d35-1bc1-47b5-b25a-a1c2265f3658.png)
+![image](https://user-images.githubusercontent.com/69175831/222556070-87e7bfa0-aa98-42ed-aab2-77cee89de7f2.png)
+![image](https://user-images.githubusercontent.com/69175831/222556099-33456d2d-2337-4ee2-9660-e2900f1b6ff0.png)
+![image](https://user-images.githubusercontent.com/69175831/222556125-a2bc1c69-2c62-44f1-ab88-45e48cc4d027.png)
