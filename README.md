@@ -1,4 +1,4 @@
-# NLP-And-Text-Mining-explaination:
+# NLP And Text Mining explaination:
 ![image](https://user-images.githubusercontent.com/69175831/222555693-a1ba2bde-fd8e-4c94-b017-87e6d851c782.png)
 #
 ![image](https://user-images.githubusercontent.com/69175831/222555748-08357642-7ab4-4bec-8785-adf13bda5587.png)
